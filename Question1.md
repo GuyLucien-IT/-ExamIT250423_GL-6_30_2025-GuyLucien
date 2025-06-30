@@ -7,9 +7,3 @@ Part A [https://macpaw.com/how-to/system-out-of-application-memory](https://www.
 •how much memory Chrome is using?
 
 •How large is the spreadsheet you're working on?
-
-Part B https://edu.gcfglobal.org/en/computerbasics/basic-troubleshooting-techniques/1/ https://www.marquette.edu/its/help/trouble.shtml  https://www.ifixit.com/Wiki/Troubleshooting_Computer_Memory
----
-
-Part C
----
