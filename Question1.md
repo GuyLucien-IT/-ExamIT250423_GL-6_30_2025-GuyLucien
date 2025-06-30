@@ -12,13 +12,28 @@ Part A
 
 Part B 
 ---
-http://hs.windows.microsoft.com/hhweb/content/m-en-us/p-6.2/id-4edd5f80-def2-4d32-965c-116d49fb9872/ 
+https://superuser.com/questions/tagged/memory
 
-https://www.ifixit.com/Wiki/Troubleshooting_Computer_Memory
+It is part of the Stack Exchange network, where users ask questions and provide answers for troubleshooting Windows memory issues, including detailed memory diagnostics and hardware solutions.
 
-https://edu.gcfglobal.org/en/computerbasics/basic-troubleshooting-techniques/1/ 
+https://www.askvg.com/
 
-It is always best to write down each step you decide to take
-If your computer shows crashes or freezes try removing and testing each RAM module one at a time to spot a faulty one.
-If faulty RAM is detected, replacing the defective module is definitely the solution. 
-This helps ensure your computer runs smoothly without crashes or errors caused by faulty memory.
+It covers a wide range of Windows troubleshooting topics, including memory management and memory leak issues. It’s a great resource for advanced users looking to tweak or solve specific memory-related problems.
+
+https://www.techradar.com/
+
+TechRadar provides troubleshooting Windows performance, including how to fix memory issues, handle memory leaks, and improve system RAM usage.
+
+Part C
+---
+https://www.howtogeek.com/
+
+This link provides step by step troubleshooting articles for common Windows app issues, including performance fixes, error resolution, and app compatibility troubleshooting.
+
+https://www.bleepingcomputer.com/
+
+The site offers guides for fixing Windows apps that crash or perform poorly. They also have active forums where users share fixes for app-specific issues, especially with software conflicts or malware.
+
+https://www.tenforums.com/
+
+This forum is dedicated to helping users with Windows 10 and 11 issues. You can find detailed tutorials and discussions on resolving application-related problems, from crashes to performance issues.
