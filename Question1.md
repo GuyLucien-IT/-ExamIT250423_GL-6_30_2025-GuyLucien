@@ -8,11 +8,8 @@ Part A [https://macpaw.com/how-to/system-out-of-application-memory](https://www.
 
 •How large is the spreadsheet you're working on?
 
-•What is the exact error message shown in Excel?
-
-Part B 
+Part B https://edu.gcfglobal.org/en/computerbasics/basic-troubleshooting-techniques/1/ https://www.marquette.edu/its/help/trouble.shtml  https://www.ifixit.com/Wiki/Troubleshooting_Computer_Memory
 ---
 
 Part C
 ---
-https://www.techtarget.com/searchenterprisedesktop/tip/Troubleshooting-the-most-common-issues-with-Windows-11
